@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Lightbox Image Gallery - Easy Tutorials</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="lightbox.css">
+</head>
+<body>
+<div class="container">
+  <div class="gallery">
+  <div class="box">
+    <a href="images/gp1.jpg"data-lightbox="models" data-title="caption1">
+      <img src="images/gp1.jpg">
+    </a><a href="images/gp2.jpg"data-lightbox="models" data-title="caption2">
+      <img src="images/gp2.jpg">
+    </a><a href="images/gp3.jpeg"data-lightbox="models" data-title="caption3">
+      <img src="images/gp3.jpeg">
+    </a><a href="images/gp4.jpeg"data-lightbox="models" data-title="caption4">
+      <img src="images/gp4.jpeg">
+    </a><a href="images/gp5.jpeg"data-lightbox="models" data-title="caption5">
+      <img src="images/gp5.jpeg">
+    </a><a href="images/gp6.png"data-lightbox="models" data-title="caption6">
+      <img src="images/gp6.png">
+    </a><a href="images/gp7.jpg"data-lightbox="models" data-title="caption7">
+      <img src="images/gp7.jpg">
+    </a><a href="images/gp8.jpg"data-lightbox="models" data-title="caption8">
+      <img src="images/gp8.jpg">
+    </a><a href="images/gp9.jpg"data-lightbox="models" data-title="caption9">
+      <img src="images/gp9.jpg">
+    </a><a href="images/gp10.jpg"data-lightbox="models" data-title="caption10">
+      <img src="images/gp10.jpg">
+    </a><a href="images/gp11.jpg"data-lightbox="models" data-title="caption11">
+      <img src="images/gp11.jpg">
+    </a><a href="images/gp12.jpg"data-lightbox="models" data-title="caption12">
+      <img src="images/gp12.jpg">
+    </a><a href="images/gp13.jpg"data-lightbox="models" data-title="caption13">
+      <img src="images/gp13.jpg">
+    </a><a href="images/gp14.jpg"data-lightbox="models" data-title="caption14">
+      <img src="images/gp14.jpg">
+    </a><a href="images/gp15.jpg"data-lightbox="models" data-title="caption15">
+      <img src="images/gp15.jpg">
+    </a><a href="images/gp16.jpg"data-lightbox="models" data-title="caption16">
+      <img src="images/gp16.jpg">
+    </a><a href="images/gp17.jpg"data-lightbox="models" data-title="caption17">
+      <img src="images/gp17.jpg">
+    </a><a href="images/gp18.jpg"data-lightbox="models" data-title="caption18">
+      <img src="images/gp18.jpg">
+    </a><a href="images/gp19.jpg"data-lightbox="models" data-title="caption19">
+      <img src="images/gp19.jpg">
+    </a><a href="images/gp20.jpg"data-lightbox="models" data-title="caption20">
+      <img src="images/gp20.jpg">
+    </a><a href="images/gp21.jpg"data-lightbox="models" data-title="caption21">
+      <img src="images/gp21.jpg">
+    </a><a href="images/gp22.jpg"data-lightbox="models" data-title="caption22">
+      <img src="images/gp22.jpg">
+    </a><a href="images/gp23.png"data-lightbox="models" data-title="caption23">
+      <img src="images/gp23.png">
+    </a><a href="images/gp24.png"data-lightbox="models" data-title="caption24">
+      <img src="images/gp24.png">
+    </a><a href="images/gp25.jpg"data-lightbox="models" data-title="caption25">
+      <img src="images/gp25.jpg">
+    </a><a href="images/gp26.jpg"data-lightbox="models" data-title="caption26">
+      <img src="images/gp26.jpg">
+    </a><a href="images/gp27.png"data-lightbox="models" data-title="caption27">
+      <img src="images/gp27.png">
+    </a><a href="images/gp28.png"data-lightbox="models" data-title="caption28">
+      <img src="images/gp28.png">
+    </a><a href="images/gp29.jpg"data-lightbox="models" data-title="caption29">
+      <img src="images/gp29.jpg">
+    </a><a href="images/gp30.jpg"data-lightbox="models" data-title="caption30">
+      <img src="images/gp30.jpg">
+    </a><a href="images/gp31.jpg"data-lightbox="models" data-title="caption31">
+      <img src="images/gp31.jpg">
+    </a><a href="images/gp32.jpg"data-lightbox="models" data-title="caption32">
+      <img src="images/gp32.jpg">
+    </a><a href="images/gp33.jpeg"data-lightbox="models" data-title="caption33">
+      <img src="images/gp33.jpeg">
+    </a><a href="images/gp34.jpg"data-lightbox="models" data-title="caption34">
+      <img src="images/gp34.jpg">
+    </a><a href="images/gp35.jpg"data-lightbox="models" data-title="caption35">
+      <img src="images/gp35.jpg">
+    </a><a href="images/gp36.png"data-lightbox="models" data-title="caption36">
+      <img src="images/gp36.png">
+    </a><a href="images/gp37.png"data-lightbox="models" data-title="caption37">
+      <img src="images/gp37.png">
+    </a><a href="images/gp38.jpg"data-lightbox="models" data-title="caption38">
+      <img src="images/gp38.jpg">
+    </a><a href="images/gp39.jpg"data-lightbox="models" data-title="caption39">
+      <img src="images/gp39.jpg">
+    </a><a href="images/gp40.jpg"data-lightbox="models" data-title="caption40">
+      <img src="images/gp40.jpg">
+    </a><a href="images/gp41.jpg"data-lightbox="models" data-title="caption41">
+      <img src="images/gp41.jpg">
+    </a><a href="images/gp42.png"data-lightbox="models" data-title="caption42">
+      <img src="images/gp42.png">
+    </a><a href="images/gp43.jpg"data-lightbox="models" data-title="caption43">
+      <img src="images/gp43.jpg">
+    </a><a href="images/gp44.jpg"data-lightbox="models" data-title="caption44">
+      <img src="images/gp44.jpg">
+    </a><a href="images/gp45.jpg"data-lightbox="models" data-title="caption45">
+      <img src="images/gp45.jpg">
+    </a><a href="images/gp46.jpg"data-lightbox="models" data-title="caption46">
+      <img src="images/gp46.jpg">
+    </a><a href="images/gp47.jpg"data-lightbox="models" data-title="caption47">
+      <img src="images/gp47.jpg">
+    </a><a href="images/gp48.png"data-lightbox="models" data-title="caption48">
+      <img src="images/gp48.png">
+    </a><a href="images/gp49.jpg"data-lightbox="models" data-title="caption49">
+      <img src="images/gp49.jpg">
+    </a><a href="images/gp50.jpg"data-lightbox="models" data-title="caption50">
+      <img src="images/gp50.jpg">
+    </a>
+
+
+  </div>
+</div>
+    <script src="lightbox-plus-jquery.js"></script>
+</body>
+</html>
